@@ -1,1 +1,1 @@
-基于Canal同步方案
+Canal 同步到Redis RabbitMQ Kafka  ElasticSearch
