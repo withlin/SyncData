@@ -40,6 +40,20 @@
 			<artifactId>canal.client</artifactId>
 			<version>1.0.25</version>
 		</dependency>
+		<!-- https://mvnrepository.com/artifact/org.projectlombok/lombok -->
+		<dependency>
+			<groupId>org.projectlombok</groupId>
+			<artifactId>lombok</artifactId>
+			<version>1.18.0</version>
+			<scope>provided</scope>
+		</dependency>
+		<dependency>
+			<groupId>com.canal.syncdata</groupId>
+			<artifactId>canal-dispatcher</artifactId>
+			<version>0.0.1</version>
+		</dependency>
+
+
 	</dependencies>
 
 </project>
