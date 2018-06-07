@@ -1,4 +1,4 @@
-package com.syncdata.canal.packet;
+package com.syncdata.canal.model;
 
 
 import lombok.Builder;

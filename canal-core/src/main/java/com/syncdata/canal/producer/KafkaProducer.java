@@ -1,7 +1,7 @@
 package com.syncdata.canal.producer;
 
 
-import com.syncdata.canal.packet.Packet;
+import com.syncdata.canal.model.Packet;
 
 public class KafkaProducer<T> extends AbstractProducer<T> {
     @Override

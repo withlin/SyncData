@@ -1,6 +1,6 @@
 package com.syncdata.canal.producer;
 
-import com.syncdata.canal.packet.Packet;
+import com.syncdata.canal.model.Packet;
 
 public abstract class AbstractProducer<T> {
 

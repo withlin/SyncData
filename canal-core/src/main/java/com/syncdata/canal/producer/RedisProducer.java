@@ -1,6 +1,6 @@
 package com.syncdata.canal.producer;
 
-import com.syncdata.canal.packet.Packet;
+import com.syncdata.canal.model.Packet;
 
 public class RedisProducer<T> extends AbstractProducer<T> {
     @Override

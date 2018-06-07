@@ -1,6 +1,7 @@
 package com.syncdata.canal.packet;
 
 import com.canal.syncdata.canal.SyncdataApplication;
+import com.syncdata.canal.model.Packet;
 import org.junit.Assert;
 import org.junit.Test;
 import org.junit.runner.RunWith;
