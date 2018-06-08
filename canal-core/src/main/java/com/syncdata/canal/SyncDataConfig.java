@@ -29,6 +29,6 @@ public class SyncDataConfig {
         this.rabbitMqExchangeAutoDelete=sinker.isRabbitMqExchangeAutoDelete();
         this.rabbitmqRoutingKeyTemplate=sinker.getRabbitmqRoutingKeyTemplate();
         this.rabbitmqMessagePersistent=sinker.isRabbitmqMessagePersistent();
-        this.rabbitmqDeclareExchange=sinker.isRabbitmqDeclareExchange();
+        this.rabbitmqDeclareExchange=sinker.isRabbitmqDeclareExchange();   
     }
 }
